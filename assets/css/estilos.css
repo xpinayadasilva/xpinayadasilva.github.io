@@ -1,3 +1,8 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
 body {
   font-family: "Raleway", sans-serif;
 }
@@ -37,3 +42,12 @@ body {
   }
 
 }
+button{
+  width:fit-content; 
+  height:fit-content;
+}
+image{
+  width:fit-content; 
+  height:fit-content;
+}
+
